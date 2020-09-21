@@ -1,0 +1,39 @@
+body{
+    background-color: aqua;
+    color:gray;
+    font-family: Arial, Helvetica, sans-serif;
+}   
+#background-header{
+    background-color: greenyellow ;
+}
+.black-border{
+    border: 5px solid black;
+    color: yellow;
+    font-size: 20px;
+}
+nav{
+    text-decoration: none;
+    font-size: 20px;
+    height: 100%;
+    width: 15%;
+}
+h3{
+    font-size: 25px;
+    color: yellow;
+}
+p{
+    font-size: 20px;
+}
+.button{
+    background-color: midnightblue;
+    border-radius: 4px;
+    border: 2px solid whitesmoke;
+    color: white;
+    padding: 12px 28px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    transition-duration: 0.4s;
+    width: 250px;
+}
